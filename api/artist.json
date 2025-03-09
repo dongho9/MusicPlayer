@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "name": "Kendrick Lamar",
+      "songName": "luther",
+      "img": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+      "desc": "One of the most acclaimed artists of his generation, hip-hop or otherwise, Kendrick Lamar is known for his top-tier lyricism, virtuosic microphone command, and sharp conceptual vision. His talents have translated to a rare combination of continuous chart feats and critical acclaim, plus respect and support from the rappers who paved the way for his advancement. The Compton native started in his teens and hit his creative and commercial stride in the 2010s, during which he authored the multi-platinum good kid, m.A.A.d city (2012), followed up with the Grammy-winning To Pimp a Butterfly (2015), and scaled another new height with the Grammy- and Pulitzer Prize-winning DAMN. (2017). All three displayed an unmatched mix of inventive wordplay and riveting narratives with an assertion of artistic dominance, examination of internal conflict, and upliftment of community all centered. ",
+      "audio": "./music/luther.mp3",
+      "bgImg": "https://image-cdn-fa.spotifycdn.com/image/ab67618600000194517fa2f35eb4ae27dcd3e2bc",
+      "listener": "111,937,102"
+    },
+    {
+      "name": "NewJeans",
+      "songName": "How Sweet",
+      "img": "https://i.scdn.co/image/ab6761610000517480668ba2b15094d083780ea9",
+      "bgImg": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194097cddd205fb2f32d104e763",
+      "desc": "NewJeans (MINJI, HANNI, DANIELLE, HAERIN, and HYEIN) made their debut on July 22, 2022 as the first group to debut from ADOR, an independent label under HYBE led by Hee Jin Min. The act released New Jeans on August 1, 2022, instantly captivating the global audience and becoming the first K-pop band to achieve the million-seller milestone with their debut album. One of the lead singles “Hype Boy” charted on Billboard Global 200 for 37 consecutive weeks– the longest record from any K-pop female act. Since then, a total of five tracks have marked their places on Billboard Hot 100 including global smash hits “Ditto,” “OMG,” and “Super Shy,” while their 2nd EP Get Up debuted at the top of Billboard 200. As the K-pop act to reach one billion streams on Spotify within the shortest period of time since debut, NewJeans currently holds more than 4.4 billion streams and more than 6.4 million album sales to their name. The band continues to make history with their show stopping performances, gracing the stages of Chicago’s Lollapalooza and the League of Legends World Championship Finals in 2023, both as the first K-pop female group to do so.",
+      "audio": "./music/HowSweet.mp3",
+      "bgImg": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194097cddd205fb2f32d104e763",
+      "listener": "13,597,732"
+    },
+    {
+      "name": "aespa",
+      "songName": "Whiplash",
+      "img": "https://i.scdn.co/image/ab67616100005174f7a1090ad3a35a34fc0ecb57",
+      "desc": "aespa, a combination of “ae”, which stands for “Avatar and Experience” and “aspect” meaning “two-sidedness”, symbolizes “meeting of another self and experiencing a new world” and consists of four real members KARINA, WINTER, GISELLE, and NINGNING along with avatar members of each. The group debuted in November 2020 with a single ‘Black Mamba’. The song entered the Billboard Global Chart (excluding U.S.) at No. 100 within just 3 days, marking the highest ranking of any K-pop artist’s debut song. It charted across music charts in 95 countries, proving their explosive popularity immediately upon debut. aespa set monumental records with ‘Black Mamba’ surpassing 21 million views in the first 24 hours of its release, and became the fastest debut MV to surpass 100 million views in the history of K-pop, setting another new record. In May, aespa released a single ‘Next Level’, which received enthusiastic response immediately upon release. The MV surpassed 50 million views in just 3 days, breaking self-record. It debuted at No. 1 on Korean and international music charts in addition to reaching No. 3 on Billboard’s World Digital Song Sales chart, scoring another worldwide hit.Following their hit albums 'Girls' and 'MY WORLD', asepa released an English single 'Better Things'. ",
+      "audio": "./music/Whiplash.mp3",
+      "bgImg": "https://cdn.newsculture.press/news/photo/202310/535312_667560_3340.jpg",
+      "listener": "10,402,406"
+    },
+    {
+      "name": "JENNIE",
+      "songName": "Like Jennie",
+      "img": "https://i.scdn.co/image/ab67616100005174cab652097be01bf194cdf11d",
+      "desc": "Debuted in 2016 as a member of BLACKPINK, Jennie Kim is one of the most influential female artists of the era. She is a singer, rapper, actor, and fashion icon with global influence. Other than her world record breaking career as BLACKPINK, she became the first Korean female solo artist to top the iTunes Worldwide Song Chart with her solo single ‘SOLO’ in 2018 and earned numerous accolades as well. She has 81.5 million followers on Instagram and 9.9 million subscribers on YouTube, leading trends on social media, and is recognized as one of the most prominent figures among gen Z. She recently made her screen debut with HBO’s ‘The Idol’, along with The Weeknd and Lily-Rose Depp as the leading cast. Her new special single [You & Me] was first revealed in BLACKPINK’s world tour ‘BORN PINK’, and is now drawing excitement for the next step of Jennie’s musical career.",
+      "audio": "./music/LikeJennie.mp3",
+      "bgImg": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194ca09f2044b888c393f3ebe86",
+      "listener": "43,061,493"
+    },
+    {
+      "name": "Billie Eilish",
+      "songName": "BIRDS OF A FEATHER",
+      "img": "https://i.scdn.co/image/ab676161000051744a21b4760d2ecb7b0dcdc8da",
+      "desc": "Billie Eilish remains one of the biggest stars to emerge in the 21st century. Her third studio album, HIT ME HARD AND SOFT features 10 tracks written and recorded in her hometown of Los Angeles, with her brother and producer FINNEAS. In 2019, her debut album WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? debuted at No. 1 in 18 countries, and was the most streamed album of that year. In 2021, her sophomore album 'Happier Than Ever’ debuted at #1 in 20 countries. Both albums were critically acclaimed worldwide and were written, produced, and recorded entirely by Billie Eilish and FINNEAS. 9-time GRAMMY® Award-winning Billie Eilish has made history as the youngest artist to receive nominations and win in all the major GRAMMY® categories, receiving an award for Best New Artist, Album of the Year, Record of the Year, Song of the Year, and Best Pop Vocal Album, and is the youngest artist to write and record an official James Bond theme song, ‘No Time To Die,’ which won an Academy Award for Best Original Song in 2022. In 2023, Eilish also wrote and released the critically acclaimed song “What Was I Made For?” for the Greta Gerwig-directed motion picture Barbie, which also won Academy and Golden Globe Award for Best Original Song, two GRAMMY® Awards for Song of the Year and Best Song Written For Visual Media, and has solidified Billie Eilish yet again in the history books as the youngest person ever to win two Academy Awards.",
+      "audio": "./music/BIRDSOFAFEATHER.mp3",
+      "bgImg": "https://image-cdn-ak.spotifycdn.com/image/ab676186000001942d84c1b04696c09702a15b85",
+      "listener": "106,301,926"
+    },
+    {
+      "name": "Sabrina Carpenter",
+      "songName": "Espresso",
+      "img": "https://i.scdn.co/image/ab67616100005174e053b8338322b9c8609ee7ae",
+      "desc": "Sabrina Carpenter has enchanted an audience of millions as a singer, songwriter, actress and style icon. With her music, she has delivered one anthem after another on stage and in the studio, earning multiple gold and platinum certifications, and performing to sold out crowds around the world. On-screen, she has generated mega-fandom through starring roles on television and film. She is signed to Island Records, where she debuted her acclaimed Gold-certified fifth studio album, emails i can’t send, which appeared on many “Best Of 2022” lists including Rolling Stone and Billboard. In April 2024, Sabrina debuted at Coachella and released her single “Espresso,” which swiftly climbed to #1 on the UK and Australian charts, reached the Top 5 in the US, and hit #1 globally on Spotify, amassing over 200M streams in its first month. Following this, her second single, “Please Please Please,” released in June, soared to #1 on Spotify’s Global and US charts, Apple Music, and eventually the Billboard Hot 100, where it debuted at #2 before reaching #1. In August, she released her highly anticipated sixth studio album, Short n’ Sweet, which instantly received critical acclaim from the likes of the New York Times, Rolling Stone, Pitchfork, and Variety. The album debuted at #1 on the Billboard 200, making it the 3rd biggest first week debut in the US in 2024. Short n' Sweet also topped the charts around the world, reaching #1 in UK, Canada, Australia, Spain, and France.",
+      "audio": "./music/Espresso.mp3",
+      "bgImg": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194e940a82ec138eda912507fa1",
+      "listener": "71,442,844"
+    },
+    {
+      "name": "Tate McRae",
+      "songName": "she's all i wanna be",
+      "img": "https://i.scdn.co/image/ab67616100005174590259e859082dc3b661b8ac",
+      "desc": "Singer, songwriter, and dancer triple threat Tate McRae has garnered over 10.8B career streams and multiple #1 Top 40 hits. She’s received countless accolades including Artist Of The Year at the 2024 JUNO Awards, nominations for three MTV VMAs, two Billboard Music Awards, and iHeartRadio Music Awards among others. She’s been featured on Billboard’s 21 Under 21 list for four consecutive years along with Forbes 2021 30 Under 30 list where she was the youngest musician on the list. Tate's 2020 #1 RIAA certified 4x Platinum single “you broke me first” has amassed over 2.2B streams. Her debut album, i used to think i could fly landed at #1 on Spotify’s Global Top Albums Debut Chart and charted in the Top 10 in multiple countries upon its release. It features her certified Platinum single “she’s all i wanna be.” Last year, the Calgary native's sophomore album THINK LATER catapulted Tate into pop stardom. It debuted at #4 on Billboard’s album chart and has garnered over 3.4B streams worldwide. Steeped in pop appeal and infectious toplines, the album features her certified 3x Platinum single “greedy” which earned the star #1 on the Billboard Global 200 chart, Global Excl. US chart, Spotify’s Global chart, and hit #1 at Top 40 radio. Her versatility as a performer has captivated audiences around the world. Whether she's delivering a powerful vocal performance or executing high-energy choreography, Tate brings a unique blend of artistry and authenticity to every stage",
+      "audio": "./music/shesalliwannabe.mp3",
+      "bgImg": "https://image-cdn-fa.spotifycdn.com/image/ab676186000001942eb641be4c9d90d32e03b976",
+      "listener": "47,521,998"
+    },
+    {
+      "name": "ROSÉ",
+      "songName": "toxic till the end",
+      "img": "https://i.scdn.co/image/ab67616100005174727a1f1f508238a20ac9fdbf",
+      "desc": "As a member of BLACKPINK, one of the best-selling girl groups of all time, ROSÉ has shattered records, performed on the most heralded stages, and amassed millions of fans around the world. On her own, the Korean-New Zealand superstar’s 2021 single “On The Ground” debuted at #1 on the Billboard Global 200 chart and became the highest-charting song by a solo K-pop female on the Billboard Hot 100. ROSÉ’s first studio album rosie marks her most personal and candid release to date with her co-writing the project in its entirety, including lead single “APT.” with Bruno Mars. Simultaneously, ROSÉ has been an unstoppable force in fashion as global ambassador for renowned brands including Saint Laurent, Tiffany & Co, Rimowa and Puma. Her influence in music, fashion and philanthropy has proven her to be a testament to the growth of Korean influence in music and fashion on a global scale.",
+      "audio": "./music/toxictilltheend.mp3",
+      "bgImg": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194e8e7147b4a626069768cebfb",
+      "listener": "60,549,017"
+    }
+  ]
+}
