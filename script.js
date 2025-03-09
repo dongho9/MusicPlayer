@@ -58,6 +58,15 @@ fetch("./api/artist.json")
       const audios = document.querySelectorAll("audio");
       const pics = document.querySelectorAll(".pic");
       const touch = article.querySelector(".touch");
+
+      audios.forEach((audio) => {
+        audio.addEventListener("ended", () => {
+          pics.forEach((pic) => {
+            pic.classList.remove("on");
+          });
+        });
+      });
+
       plays.forEach((play) => {
         play.addEventListener("click", () => {
           pics.forEach((pic) => {
